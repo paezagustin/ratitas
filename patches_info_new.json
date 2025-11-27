@@ -1,0 +1,2822 @@
+[
+   {
+      "filename": "annot_canada01_2_patch_1000_600.png",
+      "path": "patches_new\\annot_canada01_2_patch_1000_600.png",
+      "original_position": [
+         600,
+         1000
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada01_2_patch_1000_824.png",
+      "path": "patches_new\\annot_canada01_2_patch_1000_824.png",
+      "original_position": [
+         824,
+         1000
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada01_2_patch_2100_2600.png",
+      "path": "patches_new\\annot_canada01_2_patch_2100_2600.png",
+      "original_position": [
+         2600,
+         2100
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada01_2_patch_2100_2824.png",
+      "path": "patches_new\\annot_canada01_2_patch_2100_2824.png",
+      "original_position": [
+         2824,
+         2100
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada01_2_patch_2100_3048.png",
+      "path": "patches_new\\annot_canada01_2_patch_2100_3048.png",
+      "original_position": [
+         3048,
+         2100
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada01_2_patch_2100_3272.png",
+      "path": "patches_new\\annot_canada01_2_patch_2100_3272.png",
+      "original_position": [
+         3272,
+         2100
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada01_2_patch_3000_4850.png",
+      "path": "patches_new\\annot_canada01_2_patch_3000_4850.png",
+      "original_position": [
+         4850,
+         3000
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada01_2_patch_3000_5074.png",
+      "path": "patches_new\\annot_canada01_2_patch_3000_5074.png",
+      "original_position": [
+         5074,
+         3000
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada01_2_patch_3000_5298.png",
+      "path": "patches_new\\annot_canada01_2_patch_3000_5298.png",
+      "original_position": [
+         5298,
+         3000
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada01_2_patch_3000_5522.png",
+      "path": "patches_new\\annot_canada01_2_patch_3000_5522.png",
+      "original_position": [
+         5522,
+         3000
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada01_2_patch_3250_5700.png",
+      "path": "patches_new\\annot_canada01_2_patch_3250_5700.png",
+      "original_position": [
+         5700,
+         3250
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada01_2_patch_3250_5924.png",
+      "path": "patches_new\\annot_canada01_2_patch_3250_5924.png",
+      "original_position": [
+         5924,
+         3250
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada01_2_patch_3250_6148.png",
+      "path": "patches_new\\annot_canada01_2_patch_3250_6148.png",
+      "original_position": [
+         6148,
+         3250
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada01_2_patch_3250_6372.png",
+      "path": "patches_new\\annot_canada01_2_patch_3250_6372.png",
+      "original_position": [
+         6372,
+         3250
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada01_2_patch_3250_6596.png",
+      "path": "patches_new\\annot_canada01_2_patch_3250_6596.png",
+      "original_position": [
+         6596,
+         3250
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada01_2_patch_3250_6820.png",
+      "path": "patches_new\\annot_canada01_2_patch_3250_6820.png",
+      "original_position": [
+         6820,
+         3250
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada01_2_patch_3250_7044.png",
+      "path": "patches_new\\annot_canada01_2_patch_3250_7044.png",
+      "original_position": [
+         7044,
+         3250
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada01_2_patch_3250_7268.png",
+      "path": "patches_new\\annot_canada01_2_patch_3250_7268.png",
+      "original_position": [
+         7268,
+         3250
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada01_2_patch_3250_7492.png",
+      "path": "patches_new\\annot_canada01_2_patch_3250_7492.png",
+      "original_position": [
+         7492,
+         3250
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada01_2_patch_3250_7716.png",
+      "path": "patches_new\\annot_canada01_2_patch_3250_7716.png",
+      "original_position": [
+         7716,
+         3250
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada01_2_patch_3250_7940.png",
+      "path": "patches_new\\annot_canada01_2_patch_3250_7940.png",
+      "original_position": [
+         7940,
+         3250
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada01_2_patch_3250_8164.png",
+      "path": "patches_new\\annot_canada01_2_patch_3250_8164.png",
+      "original_position": [
+         8164,
+         3250
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada01_2_patch_3250_8388.png",
+      "path": "patches_new\\annot_canada01_2_patch_3250_8388.png",
+      "original_position": [
+         8388,
+         3250
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada01_1_patch_3250_3750.png",
+      "path": "patches_new\\annot_canada01_1_patch_3250_3750.png",
+      "original_position": [
+         3750,
+         3250
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_3250_3974.png",
+      "path": "patches_new\\annot_canada01_1_patch_3250_3974.png",
+      "original_position": [
+         3974,
+         3250
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_3250_4198.png",
+      "path": "patches_new\\annot_canada01_1_patch_3250_4198.png",
+      "original_position": [
+         4198,
+         3250
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_3250_4422.png",
+      "path": "patches_new\\annot_canada01_1_patch_3250_4422.png",
+      "original_position": [
+         4422,
+         3250
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_3474_3750.png",
+      "path": "patches_new\\annot_canada01_1_patch_3474_3750.png",
+      "original_position": [
+         3750,
+         3474
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_3474_3974.png",
+      "path": "patches_new\\annot_canada01_1_patch_3474_3974.png",
+      "original_position": [
+         3974,
+         3474
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_3474_4198.png",
+      "path": "patches_new\\annot_canada01_1_patch_3474_4198.png",
+      "original_position": [
+         4198,
+         3474
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_3474_4422.png",
+      "path": "patches_new\\annot_canada01_1_patch_3474_4422.png",
+      "original_position": [
+         4422,
+         3474
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_3698_3750.png",
+      "path": "patches_new\\annot_canada01_1_patch_3698_3750.png",
+      "original_position": [
+         3750,
+         3698
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_3698_3974.png",
+      "path": "patches_new\\annot_canada01_1_patch_3698_3974.png",
+      "original_position": [
+         3974,
+         3698
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_3698_4198.png",
+      "path": "patches_new\\annot_canada01_1_patch_3698_4198.png",
+      "original_position": [
+         4198,
+         3698
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_3698_4422.png",
+      "path": "patches_new\\annot_canada01_1_patch_3698_4422.png",
+      "original_position": [
+         4422,
+         3698
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_3850_4650.png",
+      "path": "patches_new\\annot_canada01_1_patch_3850_4650.png",
+      "original_position": [
+         4650,
+         3850
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_3850_4874.png",
+      "path": "patches_new\\annot_canada01_1_patch_3850_4874.png",
+      "original_position": [
+         4874,
+         3850
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_3850_5098.png",
+      "path": "patches_new\\annot_canada01_1_patch_3850_5098.png",
+      "original_position": [
+         5098,
+         3850
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_3850_5322.png",
+      "path": "patches_new\\annot_canada01_1_patch_3850_5322.png",
+      "original_position": [
+         5322,
+         3850
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_3850_5546.png",
+      "path": "patches_new\\annot_canada01_1_patch_3850_5546.png",
+      "original_position": [
+         5546,
+         3850
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_3850_5770.png",
+      "path": "patches_new\\annot_canada01_1_patch_3850_5770.png",
+      "original_position": [
+         5770,
+         3850
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_3850_5994.png",
+      "path": "patches_new\\annot_canada01_1_patch_3850_5994.png",
+      "original_position": [
+         5994,
+         3850
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_3850_6218.png",
+      "path": "patches_new\\annot_canada01_1_patch_3850_6218.png",
+      "original_position": [
+         6218,
+         3850
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_3850_6442.png",
+      "path": "patches_new\\annot_canada01_1_patch_3850_6442.png",
+      "original_position": [
+         6442,
+         3850
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_3850_6666.png",
+      "path": "patches_new\\annot_canada01_1_patch_3850_6666.png",
+      "original_position": [
+         6666,
+         3850
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_3850_6890.png",
+      "path": "patches_new\\annot_canada01_1_patch_3850_6890.png",
+      "original_position": [
+         6890,
+         3850
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_3850_7114.png",
+      "path": "patches_new\\annot_canada01_1_patch_3850_7114.png",
+      "original_position": [
+         7114,
+         3850
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_3850_7338.png",
+      "path": "patches_new\\annot_canada01_1_patch_3850_7338.png",
+      "original_position": [
+         7338,
+         3850
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_3850_7562.png",
+      "path": "patches_new\\annot_canada01_1_patch_3850_7562.png",
+      "original_position": [
+         7562,
+         3850
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_3850_7786.png",
+      "path": "patches_new\\annot_canada01_1_patch_3850_7786.png",
+      "original_position": [
+         7786,
+         3850
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_4074_4650.png",
+      "path": "patches_new\\annot_canada01_1_patch_4074_4650.png",
+      "original_position": [
+         4650,
+         4074
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_4074_4874.png",
+      "path": "patches_new\\annot_canada01_1_patch_4074_4874.png",
+      "original_position": [
+         4874,
+         4074
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_4074_5098.png",
+      "path": "patches_new\\annot_canada01_1_patch_4074_5098.png",
+      "original_position": [
+         5098,
+         4074
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_4074_5322.png",
+      "path": "patches_new\\annot_canada01_1_patch_4074_5322.png",
+      "original_position": [
+         5322,
+         4074
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_4074_5546.png",
+      "path": "patches_new\\annot_canada01_1_patch_4074_5546.png",
+      "original_position": [
+         5546,
+         4074
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_4074_5770.png",
+      "path": "patches_new\\annot_canada01_1_patch_4074_5770.png",
+      "original_position": [
+         5770,
+         4074
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_4074_5994.png",
+      "path": "patches_new\\annot_canada01_1_patch_4074_5994.png",
+      "original_position": [
+         5994,
+         4074
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_4074_6218.png",
+      "path": "patches_new\\annot_canada01_1_patch_4074_6218.png",
+      "original_position": [
+         6218,
+         4074
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_4074_6442.png",
+      "path": "patches_new\\annot_canada01_1_patch_4074_6442.png",
+      "original_position": [
+         6442,
+         4074
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_4074_6666.png",
+      "path": "patches_new\\annot_canada01_1_patch_4074_6666.png",
+      "original_position": [
+         6666,
+         4074
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_4074_6890.png",
+      "path": "patches_new\\annot_canada01_1_patch_4074_6890.png",
+      "original_position": [
+         6890,
+         4074
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_4074_7114.png",
+      "path": "patches_new\\annot_canada01_1_patch_4074_7114.png",
+      "original_position": [
+         7114,
+         4074
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_4074_7338.png",
+      "path": "patches_new\\annot_canada01_1_patch_4074_7338.png",
+      "original_position": [
+         7338,
+         4074
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_4074_7562.png",
+      "path": "patches_new\\annot_canada01_1_patch_4074_7562.png",
+      "original_position": [
+         7562,
+         4074
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_1_patch_4074_7786.png",
+      "path": "patches_new\\annot_canada01_1_patch_4074_7786.png",
+      "original_position": [
+         7786,
+         4074
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada01_3_patch_448_1120.png",
+      "path": "patches_new\\annot_canada01_3_patch_448_1120.png",
+      "original_position": [
+         1120,
+         448
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_448_1344.png",
+      "path": "patches_new\\annot_canada01_3_patch_448_1344.png",
+      "original_position": [
+         1344,
+         448
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_448_1568.png",
+      "path": "patches_new\\annot_canada01_3_patch_448_1568.png",
+      "original_position": [
+         1568,
+         448
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_448_1792.png",
+      "path": "patches_new\\annot_canada01_3_patch_448_1792.png",
+      "original_position": [
+         1792,
+         448
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_448_2016.png",
+      "path": "patches_new\\annot_canada01_3_patch_448_2016.png",
+      "original_position": [
+         2016,
+         448
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_448_2240.png",
+      "path": "patches_new\\annot_canada01_3_patch_448_2240.png",
+      "original_position": [
+         2240,
+         448
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_448_2464.png",
+      "path": "patches_new\\annot_canada01_3_patch_448_2464.png",
+      "original_position": [
+         2464,
+         448
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_448_2688.png",
+      "path": "patches_new\\annot_canada01_3_patch_448_2688.png",
+      "original_position": [
+         2688,
+         448
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_448_2912.png",
+      "path": "patches_new\\annot_canada01_3_patch_448_2912.png",
+      "original_position": [
+         2912,
+         448
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_448_3136.png",
+      "path": "patches_new\\annot_canada01_3_patch_448_3136.png",
+      "original_position": [
+         3136,
+         448
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_448_3360.png",
+      "path": "patches_new\\annot_canada01_3_patch_448_3360.png",
+      "original_position": [
+         3360,
+         448
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_448_3584.png",
+      "path": "patches_new\\annot_canada01_3_patch_448_3584.png",
+      "original_position": [
+         3584,
+         448
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_448_3808.png",
+      "path": "patches_new\\annot_canada01_3_patch_448_3808.png",
+      "original_position": [
+         3808,
+         448
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_448_4032.png",
+      "path": "patches_new\\annot_canada01_3_patch_448_4032.png",
+      "original_position": [
+         4032,
+         448
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_448_4256.png",
+      "path": "patches_new\\annot_canada01_3_patch_448_4256.png",
+      "original_position": [
+         4256,
+         448
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_448_4480.png",
+      "path": "patches_new\\annot_canada01_3_patch_448_4480.png",
+      "original_position": [
+         4480,
+         448
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_672_1120.png",
+      "path": "patches_new\\annot_canada01_3_patch_672_1120.png",
+      "original_position": [
+         1120,
+         672
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_672_1344.png",
+      "path": "patches_new\\annot_canada01_3_patch_672_1344.png",
+      "original_position": [
+         1344,
+         672
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_672_1568.png",
+      "path": "patches_new\\annot_canada01_3_patch_672_1568.png",
+      "original_position": [
+         1568,
+         672
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_672_1792.png",
+      "path": "patches_new\\annot_canada01_3_patch_672_1792.png",
+      "original_position": [
+         1792,
+         672
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_672_2016.png",
+      "path": "patches_new\\annot_canada01_3_patch_672_2016.png",
+      "original_position": [
+         2016,
+         672
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_672_2240.png",
+      "path": "patches_new\\annot_canada01_3_patch_672_2240.png",
+      "original_position": [
+         2240,
+         672
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_672_2464.png",
+      "path": "patches_new\\annot_canada01_3_patch_672_2464.png",
+      "original_position": [
+         2464,
+         672
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_672_2688.png",
+      "path": "patches_new\\annot_canada01_3_patch_672_2688.png",
+      "original_position": [
+         2688,
+         672
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_672_2912.png",
+      "path": "patches_new\\annot_canada01_3_patch_672_2912.png",
+      "original_position": [
+         2912,
+         672
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_672_3136.png",
+      "path": "patches_new\\annot_canada01_3_patch_672_3136.png",
+      "original_position": [
+         3136,
+         672
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_672_3360.png",
+      "path": "patches_new\\annot_canada01_3_patch_672_3360.png",
+      "original_position": [
+         3360,
+         672
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_672_3584.png",
+      "path": "patches_new\\annot_canada01_3_patch_672_3584.png",
+      "original_position": [
+         3584,
+         672
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_672_3808.png",
+      "path": "patches_new\\annot_canada01_3_patch_672_3808.png",
+      "original_position": [
+         3808,
+         672
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_672_4032.png",
+      "path": "patches_new\\annot_canada01_3_patch_672_4032.png",
+      "original_position": [
+         4032,
+         672
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_672_4256.png",
+      "path": "patches_new\\annot_canada01_3_patch_672_4256.png",
+      "original_position": [
+         4256,
+         672
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_672_4480.png",
+      "path": "patches_new\\annot_canada01_3_patch_672_4480.png",
+      "original_position": [
+         4480,
+         672
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_896_1120.png",
+      "path": "patches_new\\annot_canada01_3_patch_896_1120.png",
+      "original_position": [
+         1120,
+         896
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_896_1344.png",
+      "path": "patches_new\\annot_canada01_3_patch_896_1344.png",
+      "original_position": [
+         1344,
+         896
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_896_1568.png",
+      "path": "patches_new\\annot_canada01_3_patch_896_1568.png",
+      "original_position": [
+         1568,
+         896
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_896_1792.png",
+      "path": "patches_new\\annot_canada01_3_patch_896_1792.png",
+      "original_position": [
+         1792,
+         896
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_896_2016.png",
+      "path": "patches_new\\annot_canada01_3_patch_896_2016.png",
+      "original_position": [
+         2016,
+         896
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_896_2240.png",
+      "path": "patches_new\\annot_canada01_3_patch_896_2240.png",
+      "original_position": [
+         2240,
+         896
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_896_2464.png",
+      "path": "patches_new\\annot_canada01_3_patch_896_2464.png",
+      "original_position": [
+         2464,
+         896
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_896_2688.png",
+      "path": "patches_new\\annot_canada01_3_patch_896_2688.png",
+      "original_position": [
+         2688,
+         896
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_896_2912.png",
+      "path": "patches_new\\annot_canada01_3_patch_896_2912.png",
+      "original_position": [
+         2912,
+         896
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_896_3136.png",
+      "path": "patches_new\\annot_canada01_3_patch_896_3136.png",
+      "original_position": [
+         3136,
+         896
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_896_3360.png",
+      "path": "patches_new\\annot_canada01_3_patch_896_3360.png",
+      "original_position": [
+         3360,
+         896
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_896_3584.png",
+      "path": "patches_new\\annot_canada01_3_patch_896_3584.png",
+      "original_position": [
+         3584,
+         896
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_896_3808.png",
+      "path": "patches_new\\annot_canada01_3_patch_896_3808.png",
+      "original_position": [
+         3808,
+         896
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_896_4032.png",
+      "path": "patches_new\\annot_canada01_3_patch_896_4032.png",
+      "original_position": [
+         4032,
+         896
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_896_4256.png",
+      "path": "patches_new\\annot_canada01_3_patch_896_4256.png",
+      "original_position": [
+         4256,
+         896
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_896_4480.png",
+      "path": "patches_new\\annot_canada01_3_patch_896_4480.png",
+      "original_position": [
+         4480,
+         896
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_1792_4480.png",
+      "path": "patches_new\\annot_canada01_3_patch_1792_4480.png",
+      "original_position": [
+         4480,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_1792_4704.png",
+      "path": "patches_new\\annot_canada01_3_patch_1792_4704.png",
+      "original_position": [
+         4704,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_1792_4928.png",
+      "path": "patches_new\\annot_canada01_3_patch_1792_4928.png",
+      "original_position": [
+         4928,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_1792_5152.png",
+      "path": "patches_new\\annot_canada01_3_patch_1792_5152.png",
+      "original_position": [
+         5152,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_1792_5376.png",
+      "path": "patches_new\\annot_canada01_3_patch_1792_5376.png",
+      "original_position": [
+         5376,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_1792_5600.png",
+      "path": "patches_new\\annot_canada01_3_patch_1792_5600.png",
+      "original_position": [
+         5600,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_1792_5824.png",
+      "path": "patches_new\\annot_canada01_3_patch_1792_5824.png",
+      "original_position": [
+         5824,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_1792_6048.png",
+      "path": "patches_new\\annot_canada01_3_patch_1792_6048.png",
+      "original_position": [
+         6048,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_1792_6272.png",
+      "path": "patches_new\\annot_canada01_3_patch_1792_6272.png",
+      "original_position": [
+         6272,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_1792_6496.png",
+      "path": "patches_new\\annot_canada01_3_patch_1792_6496.png",
+      "original_position": [
+         6496,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_1792_6720.png",
+      "path": "patches_new\\annot_canada01_3_patch_1792_6720.png",
+      "original_position": [
+         6720,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_1792_6944.png",
+      "path": "patches_new\\annot_canada01_3_patch_1792_6944.png",
+      "original_position": [
+         6944,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_1792_7168.png",
+      "path": "patches_new\\annot_canada01_3_patch_1792_7168.png",
+      "original_position": [
+         7168,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_1792_7392.png",
+      "path": "patches_new\\annot_canada01_3_patch_1792_7392.png",
+      "original_position": [
+         7392,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_1792_7616.png",
+      "path": "patches_new\\annot_canada01_3_patch_1792_7616.png",
+      "original_position": [
+         7616,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_1792_7840.png",
+      "path": "patches_new\\annot_canada01_3_patch_1792_7840.png",
+      "original_position": [
+         7840,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_1792_8064.png",
+      "path": "patches_new\\annot_canada01_3_patch_1792_8064.png",
+      "original_position": [
+         8064,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_1792_8288.png",
+      "path": "patches_new\\annot_canada01_3_patch_1792_8288.png",
+      "original_position": [
+         8288,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_1792_8512.png",
+      "path": "patches_new\\annot_canada01_3_patch_1792_8512.png",
+      "original_position": [
+         8512,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_1792_8736.png",
+      "path": "patches_new\\annot_canada01_3_patch_1792_8736.png",
+      "original_position": [
+         8736,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_1792_8960.png",
+      "path": "patches_new\\annot_canada01_3_patch_1792_8960.png",
+      "original_position": [
+         8960,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_1792_9184.png",
+      "path": "patches_new\\annot_canada01_3_patch_1792_9184.png",
+      "original_position": [
+         9184,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_1792_9408.png",
+      "path": "patches_new\\annot_canada01_3_patch_1792_9408.png",
+      "original_position": [
+         9408,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_1792_9632.png",
+      "path": "patches_new\\annot_canada01_3_patch_1792_9632.png",
+      "original_position": [
+         9632,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2016_4480.png",
+      "path": "patches_new\\annot_canada01_3_patch_2016_4480.png",
+      "original_position": [
+         4480,
+         2016
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2016_4704.png",
+      "path": "patches_new\\annot_canada01_3_patch_2016_4704.png",
+      "original_position": [
+         4704,
+         2016
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2016_4928.png",
+      "path": "patches_new\\annot_canada01_3_patch_2016_4928.png",
+      "original_position": [
+         4928,
+         2016
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2016_5152.png",
+      "path": "patches_new\\annot_canada01_3_patch_2016_5152.png",
+      "original_position": [
+         5152,
+         2016
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2016_5376.png",
+      "path": "patches_new\\annot_canada01_3_patch_2016_5376.png",
+      "original_position": [
+         5376,
+         2016
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2016_5600.png",
+      "path": "patches_new\\annot_canada01_3_patch_2016_5600.png",
+      "original_position": [
+         5600,
+         2016
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2016_5824.png",
+      "path": "patches_new\\annot_canada01_3_patch_2016_5824.png",
+      "original_position": [
+         5824,
+         2016
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2016_6048.png",
+      "path": "patches_new\\annot_canada01_3_patch_2016_6048.png",
+      "original_position": [
+         6048,
+         2016
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2016_6272.png",
+      "path": "patches_new\\annot_canada01_3_patch_2016_6272.png",
+      "original_position": [
+         6272,
+         2016
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2016_6496.png",
+      "path": "patches_new\\annot_canada01_3_patch_2016_6496.png",
+      "original_position": [
+         6496,
+         2016
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2016_6720.png",
+      "path": "patches_new\\annot_canada01_3_patch_2016_6720.png",
+      "original_position": [
+         6720,
+         2016
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2016_6944.png",
+      "path": "patches_new\\annot_canada01_3_patch_2016_6944.png",
+      "original_position": [
+         6944,
+         2016
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2016_7168.png",
+      "path": "patches_new\\annot_canada01_3_patch_2016_7168.png",
+      "original_position": [
+         7168,
+         2016
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2016_7392.png",
+      "path": "patches_new\\annot_canada01_3_patch_2016_7392.png",
+      "original_position": [
+         7392,
+         2016
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2016_7616.png",
+      "path": "patches_new\\annot_canada01_3_patch_2016_7616.png",
+      "original_position": [
+         7616,
+         2016
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2016_7840.png",
+      "path": "patches_new\\annot_canada01_3_patch_2016_7840.png",
+      "original_position": [
+         7840,
+         2016
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2016_8064.png",
+      "path": "patches_new\\annot_canada01_3_patch_2016_8064.png",
+      "original_position": [
+         8064,
+         2016
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2016_8288.png",
+      "path": "patches_new\\annot_canada01_3_patch_2016_8288.png",
+      "original_position": [
+         8288,
+         2016
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2016_8512.png",
+      "path": "patches_new\\annot_canada01_3_patch_2016_8512.png",
+      "original_position": [
+         8512,
+         2016
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2016_8736.png",
+      "path": "patches_new\\annot_canada01_3_patch_2016_8736.png",
+      "original_position": [
+         8736,
+         2016
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2016_8960.png",
+      "path": "patches_new\\annot_canada01_3_patch_2016_8960.png",
+      "original_position": [
+         8960,
+         2016
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2016_9184.png",
+      "path": "patches_new\\annot_canada01_3_patch_2016_9184.png",
+      "original_position": [
+         9184,
+         2016
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2016_9408.png",
+      "path": "patches_new\\annot_canada01_3_patch_2016_9408.png",
+      "original_position": [
+         9408,
+         2016
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2016_9632.png",
+      "path": "patches_new\\annot_canada01_3_patch_2016_9632.png",
+      "original_position": [
+         9632,
+         2016
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2240_4480.png",
+      "path": "patches_new\\annot_canada01_3_patch_2240_4480.png",
+      "original_position": [
+         4480,
+         2240
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2240_4704.png",
+      "path": "patches_new\\annot_canada01_3_patch_2240_4704.png",
+      "original_position": [
+         4704,
+         2240
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2240_4928.png",
+      "path": "patches_new\\annot_canada01_3_patch_2240_4928.png",
+      "original_position": [
+         4928,
+         2240
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2240_5152.png",
+      "path": "patches_new\\annot_canada01_3_patch_2240_5152.png",
+      "original_position": [
+         5152,
+         2240
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2240_5376.png",
+      "path": "patches_new\\annot_canada01_3_patch_2240_5376.png",
+      "original_position": [
+         5376,
+         2240
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2240_5600.png",
+      "path": "patches_new\\annot_canada01_3_patch_2240_5600.png",
+      "original_position": [
+         5600,
+         2240
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2240_5824.png",
+      "path": "patches_new\\annot_canada01_3_patch_2240_5824.png",
+      "original_position": [
+         5824,
+         2240
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2240_6048.png",
+      "path": "patches_new\\annot_canada01_3_patch_2240_6048.png",
+      "original_position": [
+         6048,
+         2240
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2240_6272.png",
+      "path": "patches_new\\annot_canada01_3_patch_2240_6272.png",
+      "original_position": [
+         6272,
+         2240
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2240_6496.png",
+      "path": "patches_new\\annot_canada01_3_patch_2240_6496.png",
+      "original_position": [
+         6496,
+         2240
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2240_6720.png",
+      "path": "patches_new\\annot_canada01_3_patch_2240_6720.png",
+      "original_position": [
+         6720,
+         2240
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2240_6944.png",
+      "path": "patches_new\\annot_canada01_3_patch_2240_6944.png",
+      "original_position": [
+         6944,
+         2240
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2240_7168.png",
+      "path": "patches_new\\annot_canada01_3_patch_2240_7168.png",
+      "original_position": [
+         7168,
+         2240
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2240_7392.png",
+      "path": "patches_new\\annot_canada01_3_patch_2240_7392.png",
+      "original_position": [
+         7392,
+         2240
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2240_7616.png",
+      "path": "patches_new\\annot_canada01_3_patch_2240_7616.png",
+      "original_position": [
+         7616,
+         2240
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2240_7840.png",
+      "path": "patches_new\\annot_canada01_3_patch_2240_7840.png",
+      "original_position": [
+         7840,
+         2240
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2240_8064.png",
+      "path": "patches_new\\annot_canada01_3_patch_2240_8064.png",
+      "original_position": [
+         8064,
+         2240
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2240_8288.png",
+      "path": "patches_new\\annot_canada01_3_patch_2240_8288.png",
+      "original_position": [
+         8288,
+         2240
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2240_8512.png",
+      "path": "patches_new\\annot_canada01_3_patch_2240_8512.png",
+      "original_position": [
+         8512,
+         2240
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2240_8736.png",
+      "path": "patches_new\\annot_canada01_3_patch_2240_8736.png",
+      "original_position": [
+         8736,
+         2240
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2240_8960.png",
+      "path": "patches_new\\annot_canada01_3_patch_2240_8960.png",
+      "original_position": [
+         8960,
+         2240
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2240_9184.png",
+      "path": "patches_new\\annot_canada01_3_patch_2240_9184.png",
+      "original_position": [
+         9184,
+         2240
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2240_9408.png",
+      "path": "patches_new\\annot_canada01_3_patch_2240_9408.png",
+      "original_position": [
+         9408,
+         2240
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2240_9632.png",
+      "path": "patches_new\\annot_canada01_3_patch_2240_9632.png",
+      "original_position": [
+         9632,
+         2240
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2464_4480.png",
+      "path": "patches_new\\annot_canada01_3_patch_2464_4480.png",
+      "original_position": [
+         4480,
+         2464
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2464_4704.png",
+      "path": "patches_new\\annot_canada01_3_patch_2464_4704.png",
+      "original_position": [
+         4704,
+         2464
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2464_4928.png",
+      "path": "patches_new\\annot_canada01_3_patch_2464_4928.png",
+      "original_position": [
+         4928,
+         2464
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2464_5152.png",
+      "path": "patches_new\\annot_canada01_3_patch_2464_5152.png",
+      "original_position": [
+         5152,
+         2464
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2464_5376.png",
+      "path": "patches_new\\annot_canada01_3_patch_2464_5376.png",
+      "original_position": [
+         5376,
+         2464
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2464_5600.png",
+      "path": "patches_new\\annot_canada01_3_patch_2464_5600.png",
+      "original_position": [
+         5600,
+         2464
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2464_5824.png",
+      "path": "patches_new\\annot_canada01_3_patch_2464_5824.png",
+      "original_position": [
+         5824,
+         2464
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2464_6048.png",
+      "path": "patches_new\\annot_canada01_3_patch_2464_6048.png",
+      "original_position": [
+         6048,
+         2464
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2464_6272.png",
+      "path": "patches_new\\annot_canada01_3_patch_2464_6272.png",
+      "original_position": [
+         6272,
+         2464
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2464_6496.png",
+      "path": "patches_new\\annot_canada01_3_patch_2464_6496.png",
+      "original_position": [
+         6496,
+         2464
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2464_6720.png",
+      "path": "patches_new\\annot_canada01_3_patch_2464_6720.png",
+      "original_position": [
+         6720,
+         2464
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2464_6944.png",
+      "path": "patches_new\\annot_canada01_3_patch_2464_6944.png",
+      "original_position": [
+         6944,
+         2464
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2464_7168.png",
+      "path": "patches_new\\annot_canada01_3_patch_2464_7168.png",
+      "original_position": [
+         7168,
+         2464
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2464_7392.png",
+      "path": "patches_new\\annot_canada01_3_patch_2464_7392.png",
+      "original_position": [
+         7392,
+         2464
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2464_7616.png",
+      "path": "patches_new\\annot_canada01_3_patch_2464_7616.png",
+      "original_position": [
+         7616,
+         2464
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2464_7840.png",
+      "path": "patches_new\\annot_canada01_3_patch_2464_7840.png",
+      "original_position": [
+         7840,
+         2464
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2464_8064.png",
+      "path": "patches_new\\annot_canada01_3_patch_2464_8064.png",
+      "original_position": [
+         8064,
+         2464
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2464_8288.png",
+      "path": "patches_new\\annot_canada01_3_patch_2464_8288.png",
+      "original_position": [
+         8288,
+         2464
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2464_8512.png",
+      "path": "patches_new\\annot_canada01_3_patch_2464_8512.png",
+      "original_position": [
+         8512,
+         2464
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2464_8736.png",
+      "path": "patches_new\\annot_canada01_3_patch_2464_8736.png",
+      "original_position": [
+         8736,
+         2464
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2464_8960.png",
+      "path": "patches_new\\annot_canada01_3_patch_2464_8960.png",
+      "original_position": [
+         8960,
+         2464
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2464_9184.png",
+      "path": "patches_new\\annot_canada01_3_patch_2464_9184.png",
+      "original_position": [
+         9184,
+         2464
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2464_9408.png",
+      "path": "patches_new\\annot_canada01_3_patch_2464_9408.png",
+      "original_position": [
+         9408,
+         2464
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada01_3_patch_2464_9632.png",
+      "path": "patches_new\\annot_canada01_3_patch_2464_9632.png",
+      "original_position": [
+         9632,
+         2464
+      ],
+      "patch_size": 224,
+      "label": "3"
+   },
+   {
+      "filename": "annot_canada00_1_patch_448_3584.png",
+      "path": "patches_new\\annot_canada00_1_patch_448_3584.png",
+      "original_position": [
+         3584,
+         448
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_448_3808.png",
+      "path": "patches_new\\annot_canada00_1_patch_448_3808.png",
+      "original_position": [
+         3808,
+         448
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_448_4032.png",
+      "path": "patches_new\\annot_canada00_1_patch_448_4032.png",
+      "original_position": [
+         4032,
+         448
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_448_4256.png",
+      "path": "patches_new\\annot_canada00_1_patch_448_4256.png",
+      "original_position": [
+         4256,
+         448
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_448_4480.png",
+      "path": "patches_new\\annot_canada00_1_patch_448_4480.png",
+      "original_position": [
+         4480,
+         448
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_448_4704.png",
+      "path": "patches_new\\annot_canada00_1_patch_448_4704.png",
+      "original_position": [
+         4704,
+         448
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_448_4928.png",
+      "path": "patches_new\\annot_canada00_1_patch_448_4928.png",
+      "original_position": [
+         4928,
+         448
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_448_5152.png",
+      "path": "patches_new\\annot_canada00_1_patch_448_5152.png",
+      "original_position": [
+         5152,
+         448
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_448_5376.png",
+      "path": "patches_new\\annot_canada00_1_patch_448_5376.png",
+      "original_position": [
+         5376,
+         448
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_448_5600.png",
+      "path": "patches_new\\annot_canada00_1_patch_448_5600.png",
+      "original_position": [
+         5600,
+         448
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_448_5824.png",
+      "path": "patches_new\\annot_canada00_1_patch_448_5824.png",
+      "original_position": [
+         5824,
+         448
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_672_3584.png",
+      "path": "patches_new\\annot_canada00_1_patch_672_3584.png",
+      "original_position": [
+         3584,
+         672
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_672_3808.png",
+      "path": "patches_new\\annot_canada00_1_patch_672_3808.png",
+      "original_position": [
+         3808,
+         672
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_672_4032.png",
+      "path": "patches_new\\annot_canada00_1_patch_672_4032.png",
+      "original_position": [
+         4032,
+         672
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_672_4256.png",
+      "path": "patches_new\\annot_canada00_1_patch_672_4256.png",
+      "original_position": [
+         4256,
+         672
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_672_4480.png",
+      "path": "patches_new\\annot_canada00_1_patch_672_4480.png",
+      "original_position": [
+         4480,
+         672
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_672_4704.png",
+      "path": "patches_new\\annot_canada00_1_patch_672_4704.png",
+      "original_position": [
+         4704,
+         672
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_672_4928.png",
+      "path": "patches_new\\annot_canada00_1_patch_672_4928.png",
+      "original_position": [
+         4928,
+         672
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_672_5152.png",
+      "path": "patches_new\\annot_canada00_1_patch_672_5152.png",
+      "original_position": [
+         5152,
+         672
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_672_5376.png",
+      "path": "patches_new\\annot_canada00_1_patch_672_5376.png",
+      "original_position": [
+         5376,
+         672
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_672_5600.png",
+      "path": "patches_new\\annot_canada00_1_patch_672_5600.png",
+      "original_position": [
+         5600,
+         672
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_672_5824.png",
+      "path": "patches_new\\annot_canada00_1_patch_672_5824.png",
+      "original_position": [
+         5824,
+         672
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_672_6272.png",
+      "path": "patches_new\\annot_canada00_1_patch_672_6272.png",
+      "original_position": [
+         6272,
+         672
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_672_6496.png",
+      "path": "patches_new\\annot_canada00_1_patch_672_6496.png",
+      "original_position": [
+         6496,
+         672
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_672_6720.png",
+      "path": "patches_new\\annot_canada00_1_patch_672_6720.png",
+      "original_position": [
+         6720,
+         672
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_672_6944.png",
+      "path": "patches_new\\annot_canada00_1_patch_672_6944.png",
+      "original_position": [
+         6944,
+         672
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_896_6720.png",
+      "path": "patches_new\\annot_canada00_1_patch_896_6720.png",
+      "original_position": [
+         6720,
+         896
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_896_6944.png",
+      "path": "patches_new\\annot_canada00_1_patch_896_6944.png",
+      "original_position": [
+         6944,
+         896
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_896_7168.png",
+      "path": "patches_new\\annot_canada00_1_patch_896_7168.png",
+      "original_position": [
+         7168,
+         896
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_896_7392.png",
+      "path": "patches_new\\annot_canada00_1_patch_896_7392.png",
+      "original_position": [
+         7392,
+         896
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_896_7616.png",
+      "path": "patches_new\\annot_canada00_1_patch_896_7616.png",
+      "original_position": [
+         7616,
+         896
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_896_7840.png",
+      "path": "patches_new\\annot_canada00_1_patch_896_7840.png",
+      "original_position": [
+         7840,
+         896
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_1_patch_896_8064.png",
+      "path": "patches_new\\annot_canada00_1_patch_896_8064.png",
+      "original_position": [
+         8064,
+         896
+      ],
+      "patch_size": 224,
+      "label": "1"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1120_3360.png",
+      "path": "patches_new\\annot_canada00_2_patch_1120_3360.png",
+      "original_position": [
+         3360,
+         1120
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1120_3584.png",
+      "path": "patches_new\\annot_canada00_2_patch_1120_3584.png",
+      "original_position": [
+         3584,
+         1120
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1120_3808.png",
+      "path": "patches_new\\annot_canada00_2_patch_1120_3808.png",
+      "original_position": [
+         3808,
+         1120
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1120_4032.png",
+      "path": "patches_new\\annot_canada00_2_patch_1120_4032.png",
+      "original_position": [
+         4032,
+         1120
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1120_4256.png",
+      "path": "patches_new\\annot_canada00_2_patch_1120_4256.png",
+      "original_position": [
+         4256,
+         1120
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1344_3360.png",
+      "path": "patches_new\\annot_canada00_2_patch_1344_3360.png",
+      "original_position": [
+         3360,
+         1344
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1344_3584.png",
+      "path": "patches_new\\annot_canada00_2_patch_1344_3584.png",
+      "original_position": [
+         3584,
+         1344
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1344_3808.png",
+      "path": "patches_new\\annot_canada00_2_patch_1344_3808.png",
+      "original_position": [
+         3808,
+         1344
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1344_4032.png",
+      "path": "patches_new\\annot_canada00_2_patch_1344_4032.png",
+      "original_position": [
+         4032,
+         1344
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1344_4256.png",
+      "path": "patches_new\\annot_canada00_2_patch_1344_4256.png",
+      "original_position": [
+         4256,
+         1344
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1344_4480.png",
+      "path": "patches_new\\annot_canada00_2_patch_1344_4480.png",
+      "original_position": [
+         4480,
+         1344
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1344_4704.png",
+      "path": "patches_new\\annot_canada00_2_patch_1344_4704.png",
+      "original_position": [
+         4704,
+         1344
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1344_4928.png",
+      "path": "patches_new\\annot_canada00_2_patch_1344_4928.png",
+      "original_position": [
+         4928,
+         1344
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1344_5152.png",
+      "path": "patches_new\\annot_canada00_2_patch_1344_5152.png",
+      "original_position": [
+         5152,
+         1344
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1344_5376.png",
+      "path": "patches_new\\annot_canada00_2_patch_1344_5376.png",
+      "original_position": [
+         5376,
+         1344
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1344_5600.png",
+      "path": "patches_new\\annot_canada00_2_patch_1344_5600.png",
+      "original_position": [
+         5600,
+         1344
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1344_5824.png",
+      "path": "patches_new\\annot_canada00_2_patch_1344_5824.png",
+      "original_position": [
+         5824,
+         1344
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1344_6048.png",
+      "path": "patches_new\\annot_canada00_2_patch_1344_6048.png",
+      "original_position": [
+         6048,
+         1344
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1568_4480.png",
+      "path": "patches_new\\annot_canada00_2_patch_1568_4480.png",
+      "original_position": [
+         4480,
+         1568
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1568_4704.png",
+      "path": "patches_new\\annot_canada00_2_patch_1568_4704.png",
+      "original_position": [
+         4704,
+         1568
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1568_4928.png",
+      "path": "patches_new\\annot_canada00_2_patch_1568_4928.png",
+      "original_position": [
+         4928,
+         1568
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1568_5152.png",
+      "path": "patches_new\\annot_canada00_2_patch_1568_5152.png",
+      "original_position": [
+         5152,
+         1568
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1568_5376.png",
+      "path": "patches_new\\annot_canada00_2_patch_1568_5376.png",
+      "original_position": [
+         5376,
+         1568
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1568_5600.png",
+      "path": "patches_new\\annot_canada00_2_patch_1568_5600.png",
+      "original_position": [
+         5600,
+         1568
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1568_5824.png",
+      "path": "patches_new\\annot_canada00_2_patch_1568_5824.png",
+      "original_position": [
+         5824,
+         1568
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1568_6048.png",
+      "path": "patches_new\\annot_canada00_2_patch_1568_6048.png",
+      "original_position": [
+         6048,
+         1568
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1792_4704.png",
+      "path": "patches_new\\annot_canada00_2_patch_1792_4704.png",
+      "original_position": [
+         4704,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1792_4928.png",
+      "path": "patches_new\\annot_canada00_2_patch_1792_4928.png",
+      "original_position": [
+         4928,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1792_5152.png",
+      "path": "patches_new\\annot_canada00_2_patch_1792_5152.png",
+      "original_position": [
+         5152,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1792_5376.png",
+      "path": "patches_new\\annot_canada00_2_patch_1792_5376.png",
+      "original_position": [
+         5376,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1792_5600.png",
+      "path": "patches_new\\annot_canada00_2_patch_1792_5600.png",
+      "original_position": [
+         5600,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1792_5824.png",
+      "path": "patches_new\\annot_canada00_2_patch_1792_5824.png",
+      "original_position": [
+         5824,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1792_6048.png",
+      "path": "patches_new\\annot_canada00_2_patch_1792_6048.png",
+      "original_position": [
+         6048,
+         1792
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1344_6272.png",
+      "path": "patches_new\\annot_canada00_2_patch_1344_6272.png",
+      "original_position": [
+         6272,
+         1344
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1344_6496.png",
+      "path": "patches_new\\annot_canada00_2_patch_1344_6496.png",
+      "original_position": [
+         6496,
+         1344
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1344_6720.png",
+      "path": "patches_new\\annot_canada00_2_patch_1344_6720.png",
+      "original_position": [
+         6720,
+         1344
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1344_6944.png",
+      "path": "patches_new\\annot_canada00_2_patch_1344_6944.png",
+      "original_position": [
+         6944,
+         1344
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1344_7168.png",
+      "path": "patches_new\\annot_canada00_2_patch_1344_7168.png",
+      "original_position": [
+         7168,
+         1344
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1344_7392.png",
+      "path": "patches_new\\annot_canada00_2_patch_1344_7392.png",
+      "original_position": [
+         7392,
+         1344
+      ],
+      "patch_size": 224,
+      "label": "2"
+   },
+   {
+      "filename": "annot_canada00_2_patch_1344_7616.png",
+      "path": "patches_new\\annot_canada00_2_patch_1344_7616.png",
+      "original_position": [
+         7616,
+         1344
+      ],
+      "patch_size": 224,
+      "label": "2"
+   }
+]

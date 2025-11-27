@@ -1,0 +1,25 @@
+vgg19model (1,2,_without_lines) son entrenados sin lineas pero con un color distinto por eso son tan malos
+
+vgg19model3 esta entrenado con el nuevo modelo pero con las imagenes con lineas rojas,verdes y azules
+
+vgg19model4 esta entrenado con nuevo modelo y con imagenes sin lineas pero bien puestos los colores
+
+(base) lci1@lci1-Z490-UD-AC:~$ jupyter lab --ip=0.0.0.0 --port=8080 --no-browser --allow-root
+[I 2025-09-30 16:49:32.795 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2025-09-30 16:49:32.797 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2025-09-30 16:49:32.799 ServerApp] jupyterlab | extension was successfully linked.
+[I 2025-09-30 16:49:32.985 ServerApp] notebook_shim | extension was successfully linked.
+[I 2025-09-30 16:49:32.994 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2025-09-30 16:49:32.995 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2025-09-30 16:49:32.996 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2025-09-30 16:49:32.997 LabApp] JupyterLab extension loaded from /home/lci1/miniconda3/lib/python3.11/site-packages/jupyterlab
+[I 2025-09-30 16:49:32.997 LabApp] JupyterLab application directory is /home/lci1/miniconda3/share/jupyter/lab
+[I 2025-09-30 16:49:32.997 LabApp] Extension Manager is 'pypi'.
+[I 2025-09-30 16:49:33.031 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2025-09-30 16:49:33.032 ServerApp] Serving notebooks from local directory: /home/lci1
+[I 2025-09-30 16:49:33.032 ServerApp] Jupyter Server 2.17.0 is running at:
+[I 2025-09-30 16:49:33.032 ServerApp] http://lci1-Z490-UD-AC:8080/lab?token=2f2fd3e9f12c478480a8c45db36fbe1a6f76767cf8088bbe
+[I 2025-09-30 16:49:33.032 ServerApp]     http://127.0.0.1:8080/lab?token=2f2fd3e9f12c478480a8c45db36fbe1a6f76767cf8088bbe
+[I 2025-09-30 16:49:33.032 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2025-09-30 16:49:33.034 ServerApp] 
+hoola

@@ -1,0 +1,3752 @@
+[
+  {
+    "filename": "3_patch_0_0.png",
+    "path": "patches\\3_patch_0_0.png",
+    "original_position": [
+      2000,
+      2000
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_224.png",
+    "path": "patches\\3_patch_0_224.png",
+    "original_position": [
+      2224,
+      2000
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_448.png",
+    "path": "patches\\3_patch_0_448.png",
+    "original_position": [
+      2448,
+      2000
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_672.png",
+    "path": "patches\\3_patch_0_672.png",
+    "original_position": [
+      2672,
+      2000
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_896.png",
+    "path": "patches\\3_patch_0_896.png",
+    "original_position": [
+      2896,
+      2000
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_1120.png",
+    "path": "patches\\3_patch_0_1120.png",
+    "original_position": [
+      3120,
+      2000
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_1344.png",
+    "path": "patches\\3_patch_0_1344.png",
+    "original_position": [
+      3344,
+      2000
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_1568.png",
+    "path": "patches\\3_patch_0_1568.png",
+    "original_position": [
+      3568,
+      2000
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_1792.png",
+    "path": "patches\\3_patch_0_1792.png",
+    "original_position": [
+      3792,
+      2000
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_0.png",
+    "path": "patches\\3_patch_224_0.png",
+    "original_position": [
+      2000,
+      2224
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_224.png",
+    "path": "patches\\3_patch_224_224.png",
+    "original_position": [
+      2224,
+      2224
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_448.png",
+    "path": "patches\\3_patch_224_448.png",
+    "original_position": [
+      2448,
+      2224
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_672.png",
+    "path": "patches\\3_patch_224_672.png",
+    "original_position": [
+      2672,
+      2224
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_896.png",
+    "path": "patches\\3_patch_224_896.png",
+    "original_position": [
+      2896,
+      2224
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_1120.png",
+    "path": "patches\\3_patch_224_1120.png",
+    "original_position": [
+      3120,
+      2224
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_1344.png",
+    "path": "patches\\3_patch_224_1344.png",
+    "original_position": [
+      3344,
+      2224
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_1568.png",
+    "path": "patches\\3_patch_224_1568.png",
+    "original_position": [
+      3568,
+      2224
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_1792.png",
+    "path": "patches\\3_patch_224_1792.png",
+    "original_position": [
+      3792,
+      2224
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_0.png",
+    "path": "patches\\3_patch_448_0.png",
+    "original_position": [
+      2000,
+      2448
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_224.png",
+    "path": "patches\\3_patch_448_224.png",
+    "original_position": [
+      2224,
+      2448
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_448.png",
+    "path": "patches\\3_patch_448_448.png",
+    "original_position": [
+      2448,
+      2448
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_672.png",
+    "path": "patches\\3_patch_448_672.png",
+    "original_position": [
+      2672,
+      2448
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_896.png",
+    "path": "patches\\3_patch_448_896.png",
+    "original_position": [
+      2896,
+      2448
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_1120.png",
+    "path": "patches\\3_patch_448_1120.png",
+    "original_position": [
+      3120,
+      2448
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_1344.png",
+    "path": "patches\\3_patch_448_1344.png",
+    "original_position": [
+      3344,
+      2448
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_1568.png",
+    "path": "patches\\3_patch_448_1568.png",
+    "original_position": [
+      3568,
+      2448
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_1792.png",
+    "path": "patches\\3_patch_448_1792.png",
+    "original_position": [
+      3792,
+      2448
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_0.png",
+    "path": "patches\\3_patch_672_0.png",
+    "original_position": [
+      2000,
+      2672
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_224.png",
+    "path": "patches\\3_patch_672_224.png",
+    "original_position": [
+      2224,
+      2672
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_448.png",
+    "path": "patches\\3_patch_672_448.png",
+    "original_position": [
+      2448,
+      2672
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_672.png",
+    "path": "patches\\3_patch_672_672.png",
+    "original_position": [
+      2672,
+      2672
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_896.png",
+    "path": "patches\\3_patch_672_896.png",
+    "original_position": [
+      2896,
+      2672
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_1120.png",
+    "path": "patches\\3_patch_672_1120.png",
+    "original_position": [
+      3120,
+      2672
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_1344.png",
+    "path": "patches\\3_patch_672_1344.png",
+    "original_position": [
+      3344,
+      2672
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_1568.png",
+    "path": "patches\\3_patch_672_1568.png",
+    "original_position": [
+      3568,
+      2672
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_1792.png",
+    "path": "patches\\3_patch_672_1792.png",
+    "original_position": [
+      3792,
+      2672
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_896_0.png",
+    "path": "patches\\3_patch_896_0.png",
+    "original_position": [
+      2000,
+      2896
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_896_224.png",
+    "path": "patches\\3_patch_896_224.png",
+    "original_position": [
+      2224,
+      2896
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_896_448.png",
+    "path": "patches\\3_patch_896_448.png",
+    "original_position": [
+      2448,
+      2896
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_896_672.png",
+    "path": "patches\\3_patch_896_672.png",
+    "original_position": [
+      2672,
+      2896
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_896_896.png",
+    "path": "patches\\3_patch_896_896.png",
+    "original_position": [
+      2896,
+      2896
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_896_1120.png",
+    "path": "patches\\3_patch_896_1120.png",
+    "original_position": [
+      3120,
+      2896
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_896_1344.png",
+    "path": "patches\\3_patch_896_1344.png",
+    "original_position": [
+      3344,
+      2896
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_896_1568.png",
+    "path": "patches\\3_patch_896_1568.png",
+    "original_position": [
+      3568,
+      2896
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_896_1792.png",
+    "path": "patches\\3_patch_896_1792.png",
+    "original_position": [
+      3792,
+      2896
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_1120_0.png",
+    "path": "patches\\3_patch_1120_0.png",
+    "original_position": [
+      2000,
+      3120
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_1120_224.png",
+    "path": "patches\\3_patch_1120_224.png",
+    "original_position": [
+      2224,
+      3120
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_1120_448.png",
+    "path": "patches\\3_patch_1120_448.png",
+    "original_position": [
+      2448,
+      3120
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_1120_672.png",
+    "path": "patches\\3_patch_1120_672.png",
+    "original_position": [
+      2672,
+      3120
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_1120_896.png",
+    "path": "patches\\3_patch_1120_896.png",
+    "original_position": [
+      2896,
+      3120
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_1120_1120.png",
+    "path": "patches\\3_patch_1120_1120.png",
+    "original_position": [
+      3120,
+      3120
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_1120_1344.png",
+    "path": "patches\\3_patch_1120_1344.png",
+    "original_position": [
+      3344,
+      3120
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_1120_1568.png",
+    "path": "patches\\3_patch_1120_1568.png",
+    "original_position": [
+      3568,
+      3120
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_1120_1792.png",
+    "path": "patches\\3_patch_1120_1792.png",
+    "original_position": [
+      3792,
+      3120
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "1_patch_0_0.png",
+    "path": "patches\\1_patch_0_0.png",
+    "original_position": [
+      3800,
+      400
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_0_224.png",
+    "path": "patches\\1_patch_0_224.png",
+    "original_position": [
+      4024,
+      400
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_0_448.png",
+    "path": "patches\\1_patch_0_448.png",
+    "original_position": [
+      4248,
+      400
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_0_672.png",
+    "path": "patches\\1_patch_0_672.png",
+    "original_position": [
+      4472,
+      400
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_0_896.png",
+    "path": "patches\\1_patch_0_896.png",
+    "original_position": [
+      4696,
+      400
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_0_1120.png",
+    "path": "patches\\1_patch_0_1120.png",
+    "original_position": [
+      4920,
+      400
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_0_1344.png",
+    "path": "patches\\1_patch_0_1344.png",
+    "original_position": [
+      5144,
+      400
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_0_1568.png",
+    "path": "patches\\1_patch_0_1568.png",
+    "original_position": [
+      5368,
+      400
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_0_1792.png",
+    "path": "patches\\1_patch_0_1792.png",
+    "original_position": [
+      5592,
+      400
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_0.png",
+    "path": "patches\\1_patch_224_0.png",
+    "original_position": [
+      3800,
+      624
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_224.png",
+    "path": "patches\\1_patch_224_224.png",
+    "original_position": [
+      4024,
+      624
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_448.png",
+    "path": "patches\\1_patch_224_448.png",
+    "original_position": [
+      4248,
+      624
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_672.png",
+    "path": "patches\\1_patch_224_672.png",
+    "original_position": [
+      4472,
+      624
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_896.png",
+    "path": "patches\\1_patch_224_896.png",
+    "original_position": [
+      4696,
+      624
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_1120.png",
+    "path": "patches\\1_patch_224_1120.png",
+    "original_position": [
+      4920,
+      624
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_1344.png",
+    "path": "patches\\1_patch_224_1344.png",
+    "original_position": [
+      5144,
+      624
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_1568.png",
+    "path": "patches\\1_patch_224_1568.png",
+    "original_position": [
+      5368,
+      624
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_1792.png",
+    "path": "patches\\1_patch_224_1792.png",
+    "original_position": [
+      5592,
+      624
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_448_0.png",
+    "path": "patches\\1_patch_448_0.png",
+    "original_position": [
+      3800,
+      848
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_448_224.png",
+    "path": "patches\\1_patch_448_224.png",
+    "original_position": [
+      4024,
+      848
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_448_448.png",
+    "path": "patches\\1_patch_448_448.png",
+    "original_position": [
+      4248,
+      848
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_448_672.png",
+    "path": "patches\\1_patch_448_672.png",
+    "original_position": [
+      4472,
+      848
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_448_896.png",
+    "path": "patches\\1_patch_448_896.png",
+    "original_position": [
+      4696,
+      848
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_448_1120.png",
+    "path": "patches\\1_patch_448_1120.png",
+    "original_position": [
+      4920,
+      848
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_448_1344.png",
+    "path": "patches\\1_patch_448_1344.png",
+    "original_position": [
+      5144,
+      848
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_448_1568.png",
+    "path": "patches\\1_patch_448_1568.png",
+    "original_position": [
+      5368,
+      848
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_448_1792.png",
+    "path": "patches\\1_patch_448_1792.png",
+    "original_position": [
+      5592,
+      848
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "2_patch_0_0.png",
+    "path": "patches\\2_patch_0_0.png",
+    "original_position": [
+      2750,
+      1250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_224.png",
+    "path": "patches\\2_patch_0_224.png",
+    "original_position": [
+      2974,
+      1250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_448.png",
+    "path": "patches\\2_patch_0_448.png",
+    "original_position": [
+      3198,
+      1250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_672.png",
+    "path": "patches\\2_patch_0_672.png",
+    "original_position": [
+      3422,
+      1250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_896.png",
+    "path": "patches\\2_patch_0_896.png",
+    "original_position": [
+      3646,
+      1250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_1120.png",
+    "path": "patches\\2_patch_0_1120.png",
+    "original_position": [
+      3870,
+      1250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_1344.png",
+    "path": "patches\\2_patch_0_1344.png",
+    "original_position": [
+      4094,
+      1250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_1568.png",
+    "path": "patches\\2_patch_0_1568.png",
+    "original_position": [
+      4318,
+      1250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_1792.png",
+    "path": "patches\\2_patch_0_1792.png",
+    "original_position": [
+      4542,
+      1250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_2016.png",
+    "path": "patches\\2_patch_0_2016.png",
+    "original_position": [
+      4766,
+      1250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_2240.png",
+    "path": "patches\\2_patch_0_2240.png",
+    "original_position": [
+      4990,
+      1250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_2464.png",
+    "path": "patches\\2_patch_0_2464.png",
+    "original_position": [
+      5214,
+      1250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_2688.png",
+    "path": "patches\\2_patch_0_2688.png",
+    "original_position": [
+      5438,
+      1250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_2912.png",
+    "path": "patches\\2_patch_0_2912.png",
+    "original_position": [
+      5662,
+      1250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_3136.png",
+    "path": "patches\\2_patch_0_3136.png",
+    "original_position": [
+      5886,
+      1250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_3360.png",
+    "path": "patches\\2_patch_0_3360.png",
+    "original_position": [
+      6110,
+      1250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_3584.png",
+    "path": "patches\\2_patch_0_3584.png",
+    "original_position": [
+      6334,
+      1250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_3808.png",
+    "path": "patches\\2_patch_0_3808.png",
+    "original_position": [
+      6558,
+      1250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_4032.png",
+    "path": "patches\\2_patch_0_4032.png",
+    "original_position": [
+      6782,
+      1250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_4256.png",
+    "path": "patches\\2_patch_0_4256.png",
+    "original_position": [
+      7006,
+      1250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_4480.png",
+    "path": "patches\\2_patch_0_4480.png",
+    "original_position": [
+      7230,
+      1250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_4704.png",
+    "path": "patches\\2_patch_0_4704.png",
+    "original_position": [
+      7454,
+      1250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "3_patch_0_0.png",
+    "path": "patches\\3_patch_0_0.png",
+    "original_position": [
+      3500,
+      524
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_224.png",
+    "path": "patches\\3_patch_0_224.png",
+    "original_position": [
+      3724,
+      524
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_448.png",
+    "path": "patches\\3_patch_0_448.png",
+    "original_position": [
+      3948,
+      524
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_672.png",
+    "path": "patches\\3_patch_0_672.png",
+    "original_position": [
+      4172,
+      524
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_896.png",
+    "path": "patches\\3_patch_0_896.png",
+    "original_position": [
+      4396,
+      524
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_1120.png",
+    "path": "patches\\3_patch_0_1120.png",
+    "original_position": [
+      4620,
+      524
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_1344.png",
+    "path": "patches\\3_patch_0_1344.png",
+    "original_position": [
+      4844,
+      524
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_1568.png",
+    "path": "patches\\3_patch_0_1568.png",
+    "original_position": [
+      5068,
+      524
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_1792.png",
+    "path": "patches\\3_patch_0_1792.png",
+    "original_position": [
+      5292,
+      524
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_2016.png",
+    "path": "patches\\3_patch_0_2016.png",
+    "original_position": [
+      5516,
+      524
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_2240.png",
+    "path": "patches\\3_patch_0_2240.png",
+    "original_position": [
+      5740,
+      524
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_0.png",
+    "path": "patches\\3_patch_224_0.png",
+    "original_position": [
+      3500,
+      748
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_224.png",
+    "path": "patches\\3_patch_224_224.png",
+    "original_position": [
+      3724,
+      748
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_448.png",
+    "path": "patches\\3_patch_224_448.png",
+    "original_position": [
+      3948,
+      748
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_672.png",
+    "path": "patches\\3_patch_224_672.png",
+    "original_position": [
+      4172,
+      748
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_896.png",
+    "path": "patches\\3_patch_224_896.png",
+    "original_position": [
+      4396,
+      748
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_1120.png",
+    "path": "patches\\3_patch_224_1120.png",
+    "original_position": [
+      4620,
+      748
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_1344.png",
+    "path": "patches\\3_patch_224_1344.png",
+    "original_position": [
+      4844,
+      748
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_1568.png",
+    "path": "patches\\3_patch_224_1568.png",
+    "original_position": [
+      5068,
+      748
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_1792.png",
+    "path": "patches\\3_patch_224_1792.png",
+    "original_position": [
+      5292,
+      748
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_2016.png",
+    "path": "patches\\3_patch_224_2016.png",
+    "original_position": [
+      5516,
+      748
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_2240.png",
+    "path": "patches\\3_patch_224_2240.png",
+    "original_position": [
+      5740,
+      748
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_0.png",
+    "path": "patches\\3_patch_0_0.png",
+    "original_position": [
+      8500,
+      1250
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_224.png",
+    "path": "patches\\3_patch_0_224.png",
+    "original_position": [
+      8724,
+      1250
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_448.png",
+    "path": "patches\\3_patch_0_448.png",
+    "original_position": [
+      8948,
+      1250
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "1_patch_0_0.png",
+    "path": "patches\\1_patch_0_0.png",
+    "original_position": [
+      3750,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_0_224.png",
+    "path": "patches\\1_patch_0_224.png",
+    "original_position": [
+      3974,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_0_448.png",
+    "path": "patches\\1_patch_0_448.png",
+    "original_position": [
+      4198,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_0_672.png",
+    "path": "patches\\1_patch_0_672.png",
+    "original_position": [
+      4422,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_0.png",
+    "path": "patches\\1_patch_224_0.png",
+    "original_position": [
+      3750,
+      3474
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_224.png",
+    "path": "patches\\1_patch_224_224.png",
+    "original_position": [
+      3974,
+      3474
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_448.png",
+    "path": "patches\\1_patch_224_448.png",
+    "original_position": [
+      4198,
+      3474
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_672.png",
+    "path": "patches\\1_patch_224_672.png",
+    "original_position": [
+      4422,
+      3474
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_448_0.png",
+    "path": "patches\\1_patch_448_0.png",
+    "original_position": [
+      3750,
+      3698
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_448_224.png",
+    "path": "patches\\1_patch_448_224.png",
+    "original_position": [
+      3974,
+      3698
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_448_448.png",
+    "path": "patches\\1_patch_448_448.png",
+    "original_position": [
+      4198,
+      3698
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_448_672.png",
+    "path": "patches\\1_patch_448_672.png",
+    "original_position": [
+      4422,
+      3698
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_0_0.png",
+    "path": "patches\\1_patch_0_0.png",
+    "original_position": [
+      4650,
+      3850
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_0_224.png",
+    "path": "patches\\1_patch_0_224.png",
+    "original_position": [
+      4874,
+      3850
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_0_448.png",
+    "path": "patches\\1_patch_0_448.png",
+    "original_position": [
+      5098,
+      3850
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_0_672.png",
+    "path": "patches\\1_patch_0_672.png",
+    "original_position": [
+      5322,
+      3850
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_0_896.png",
+    "path": "patches\\1_patch_0_896.png",
+    "original_position": [
+      5546,
+      3850
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_0_1120.png",
+    "path": "patches\\1_patch_0_1120.png",
+    "original_position": [
+      5770,
+      3850
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_0_1344.png",
+    "path": "patches\\1_patch_0_1344.png",
+    "original_position": [
+      5994,
+      3850
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_0_1568.png",
+    "path": "patches\\1_patch_0_1568.png",
+    "original_position": [
+      6218,
+      3850
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_0_1792.png",
+    "path": "patches\\1_patch_0_1792.png",
+    "original_position": [
+      6442,
+      3850
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_0_2016.png",
+    "path": "patches\\1_patch_0_2016.png",
+    "original_position": [
+      6666,
+      3850
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_0_2240.png",
+    "path": "patches\\1_patch_0_2240.png",
+    "original_position": [
+      6890,
+      3850
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_0_2464.png",
+    "path": "patches\\1_patch_0_2464.png",
+    "original_position": [
+      7114,
+      3850
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_0_2688.png",
+    "path": "patches\\1_patch_0_2688.png",
+    "original_position": [
+      7338,
+      3850
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_0_2912.png",
+    "path": "patches\\1_patch_0_2912.png",
+    "original_position": [
+      7562,
+      3850
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_0_3136.png",
+    "path": "patches\\1_patch_0_3136.png",
+    "original_position": [
+      7786,
+      3850
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_0.png",
+    "path": "patches\\1_patch_224_0.png",
+    "original_position": [
+      4650,
+      4074
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_224.png",
+    "path": "patches\\1_patch_224_224.png",
+    "original_position": [
+      4874,
+      4074
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_448.png",
+    "path": "patches\\1_patch_224_448.png",
+    "original_position": [
+      5098,
+      4074
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_672.png",
+    "path": "patches\\1_patch_224_672.png",
+    "original_position": [
+      5322,
+      4074
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_896.png",
+    "path": "patches\\1_patch_224_896.png",
+    "original_position": [
+      5546,
+      4074
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_1120.png",
+    "path": "patches\\1_patch_224_1120.png",
+    "original_position": [
+      5770,
+      4074
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_1344.png",
+    "path": "patches\\1_patch_224_1344.png",
+    "original_position": [
+      5994,
+      4074
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_1568.png",
+    "path": "patches\\1_patch_224_1568.png",
+    "original_position": [
+      6218,
+      4074
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_1792.png",
+    "path": "patches\\1_patch_224_1792.png",
+    "original_position": [
+      6442,
+      4074
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_2016.png",
+    "path": "patches\\1_patch_224_2016.png",
+    "original_position": [
+      6666,
+      4074
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_2240.png",
+    "path": "patches\\1_patch_224_2240.png",
+    "original_position": [
+      6890,
+      4074
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_2464.png",
+    "path": "patches\\1_patch_224_2464.png",
+    "original_position": [
+      7114,
+      4074
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_2688.png",
+    "path": "patches\\1_patch_224_2688.png",
+    "original_position": [
+      7338,
+      4074
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_2912.png",
+    "path": "patches\\1_patch_224_2912.png",
+    "original_position": [
+      7562,
+      4074
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "1_patch_224_3136.png",
+    "path": "patches\\1_patch_224_3136.png",
+    "original_position": [
+      7786,
+      4074
+    ],
+    "patch_size": 224,
+    "label": "1"
+  },
+  {
+    "filename": "2_patch_0_0.png",
+    "path": "patches\\2_patch_0_0.png",
+    "original_position": [
+      600,
+      1000
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_224.png",
+    "path": "patches\\2_patch_0_224.png",
+    "original_position": [
+      824,
+      1000
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_0.png",
+    "path": "patches\\2_patch_0_0.png",
+    "original_position": [
+      2600,
+      2100
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_224.png",
+    "path": "patches\\2_patch_0_224.png",
+    "original_position": [
+      2824,
+      2100
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_448.png",
+    "path": "patches\\2_patch_0_448.png",
+    "original_position": [
+      3048,
+      2100
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_672.png",
+    "path": "patches\\2_patch_0_672.png",
+    "original_position": [
+      3272,
+      2100
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_0.png",
+    "path": "patches\\2_patch_0_0.png",
+    "original_position": [
+      4850,
+      3000
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_224.png",
+    "path": "patches\\2_patch_0_224.png",
+    "original_position": [
+      5074,
+      3000
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_448.png",
+    "path": "patches\\2_patch_0_448.png",
+    "original_position": [
+      5298,
+      3000
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_672.png",
+    "path": "patches\\2_patch_0_672.png",
+    "original_position": [
+      5522,
+      3000
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_0.png",
+    "path": "patches\\2_patch_0_0.png",
+    "original_position": [
+      5700,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_224.png",
+    "path": "patches\\2_patch_0_224.png",
+    "original_position": [
+      5924,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_448.png",
+    "path": "patches\\2_patch_0_448.png",
+    "original_position": [
+      6148,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_672.png",
+    "path": "patches\\2_patch_0_672.png",
+    "original_position": [
+      6372,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_896.png",
+    "path": "patches\\2_patch_0_896.png",
+    "original_position": [
+      6596,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_1120.png",
+    "path": "patches\\2_patch_0_1120.png",
+    "original_position": [
+      6820,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_1344.png",
+    "path": "patches\\2_patch_0_1344.png",
+    "original_position": [
+      7044,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_1568.png",
+    "path": "patches\\2_patch_0_1568.png",
+    "original_position": [
+      7268,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_1792.png",
+    "path": "patches\\2_patch_0_1792.png",
+    "original_position": [
+      7492,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_2016.png",
+    "path": "patches\\2_patch_0_2016.png",
+    "original_position": [
+      7716,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_2240.png",
+    "path": "patches\\2_patch_0_2240.png",
+    "original_position": [
+      7940,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_2464.png",
+    "path": "patches\\2_patch_0_2464.png",
+    "original_position": [
+      8164,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_2688.png",
+    "path": "patches\\2_patch_0_2688.png",
+    "original_position": [
+      8388,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "3_patch_0_0.png",
+    "path": "patches\\3_patch_0_0.png",
+    "original_position": [
+      1120,
+      448
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_224.png",
+    "path": "patches\\3_patch_0_224.png",
+    "original_position": [
+      1344,
+      448
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_448.png",
+    "path": "patches\\3_patch_0_448.png",
+    "original_position": [
+      1568,
+      448
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_672.png",
+    "path": "patches\\3_patch_0_672.png",
+    "original_position": [
+      1792,
+      448
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_896.png",
+    "path": "patches\\3_patch_0_896.png",
+    "original_position": [
+      2016,
+      448
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_1120.png",
+    "path": "patches\\3_patch_0_1120.png",
+    "original_position": [
+      2240,
+      448
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_1344.png",
+    "path": "patches\\3_patch_0_1344.png",
+    "original_position": [
+      2464,
+      448
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_1568.png",
+    "path": "patches\\3_patch_0_1568.png",
+    "original_position": [
+      2688,
+      448
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_1792.png",
+    "path": "patches\\3_patch_0_1792.png",
+    "original_position": [
+      2912,
+      448
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_2016.png",
+    "path": "patches\\3_patch_0_2016.png",
+    "original_position": [
+      3136,
+      448
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_2240.png",
+    "path": "patches\\3_patch_0_2240.png",
+    "original_position": [
+      3360,
+      448
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_2464.png",
+    "path": "patches\\3_patch_0_2464.png",
+    "original_position": [
+      3584,
+      448
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_2688.png",
+    "path": "patches\\3_patch_0_2688.png",
+    "original_position": [
+      3808,
+      448
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_2912.png",
+    "path": "patches\\3_patch_0_2912.png",
+    "original_position": [
+      4032,
+      448
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_3136.png",
+    "path": "patches\\3_patch_0_3136.png",
+    "original_position": [
+      4256,
+      448
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_3360.png",
+    "path": "patches\\3_patch_0_3360.png",
+    "original_position": [
+      4480,
+      448
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_0.png",
+    "path": "patches\\3_patch_224_0.png",
+    "original_position": [
+      1120,
+      672
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_224.png",
+    "path": "patches\\3_patch_224_224.png",
+    "original_position": [
+      1344,
+      672
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_448.png",
+    "path": "patches\\3_patch_224_448.png",
+    "original_position": [
+      1568,
+      672
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_672.png",
+    "path": "patches\\3_patch_224_672.png",
+    "original_position": [
+      1792,
+      672
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_896.png",
+    "path": "patches\\3_patch_224_896.png",
+    "original_position": [
+      2016,
+      672
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_1120.png",
+    "path": "patches\\3_patch_224_1120.png",
+    "original_position": [
+      2240,
+      672
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_1344.png",
+    "path": "patches\\3_patch_224_1344.png",
+    "original_position": [
+      2464,
+      672
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_1568.png",
+    "path": "patches\\3_patch_224_1568.png",
+    "original_position": [
+      2688,
+      672
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_1792.png",
+    "path": "patches\\3_patch_224_1792.png",
+    "original_position": [
+      2912,
+      672
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_2016.png",
+    "path": "patches\\3_patch_224_2016.png",
+    "original_position": [
+      3136,
+      672
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_2240.png",
+    "path": "patches\\3_patch_224_2240.png",
+    "original_position": [
+      3360,
+      672
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_2464.png",
+    "path": "patches\\3_patch_224_2464.png",
+    "original_position": [
+      3584,
+      672
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_2688.png",
+    "path": "patches\\3_patch_224_2688.png",
+    "original_position": [
+      3808,
+      672
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_2912.png",
+    "path": "patches\\3_patch_224_2912.png",
+    "original_position": [
+      4032,
+      672
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_3136.png",
+    "path": "patches\\3_patch_224_3136.png",
+    "original_position": [
+      4256,
+      672
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_3360.png",
+    "path": "patches\\3_patch_224_3360.png",
+    "original_position": [
+      4480,
+      672
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_0.png",
+    "path": "patches\\3_patch_448_0.png",
+    "original_position": [
+      1120,
+      896
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_224.png",
+    "path": "patches\\3_patch_448_224.png",
+    "original_position": [
+      1344,
+      896
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_448.png",
+    "path": "patches\\3_patch_448_448.png",
+    "original_position": [
+      1568,
+      896
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_672.png",
+    "path": "patches\\3_patch_448_672.png",
+    "original_position": [
+      1792,
+      896
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_896.png",
+    "path": "patches\\3_patch_448_896.png",
+    "original_position": [
+      2016,
+      896
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_1120.png",
+    "path": "patches\\3_patch_448_1120.png",
+    "original_position": [
+      2240,
+      896
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_1344.png",
+    "path": "patches\\3_patch_448_1344.png",
+    "original_position": [
+      2464,
+      896
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_1568.png",
+    "path": "patches\\3_patch_448_1568.png",
+    "original_position": [
+      2688,
+      896
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_1792.png",
+    "path": "patches\\3_patch_448_1792.png",
+    "original_position": [
+      2912,
+      896
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_2016.png",
+    "path": "patches\\3_patch_448_2016.png",
+    "original_position": [
+      3136,
+      896
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_2240.png",
+    "path": "patches\\3_patch_448_2240.png",
+    "original_position": [
+      3360,
+      896
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_2464.png",
+    "path": "patches\\3_patch_448_2464.png",
+    "original_position": [
+      3584,
+      896
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_2688.png",
+    "path": "patches\\3_patch_448_2688.png",
+    "original_position": [
+      3808,
+      896
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_2912.png",
+    "path": "patches\\3_patch_448_2912.png",
+    "original_position": [
+      4032,
+      896
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_3136.png",
+    "path": "patches\\3_patch_448_3136.png",
+    "original_position": [
+      4256,
+      896
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_3360.png",
+    "path": "patches\\3_patch_448_3360.png",
+    "original_position": [
+      4480,
+      896
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_0.png",
+    "path": "patches\\3_patch_0_0.png",
+    "original_position": [
+      4480,
+      1792
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_224.png",
+    "path": "patches\\3_patch_0_224.png",
+    "original_position": [
+      4704,
+      1792
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_448.png",
+    "path": "patches\\3_patch_0_448.png",
+    "original_position": [
+      4928,
+      1792
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_672.png",
+    "path": "patches\\3_patch_0_672.png",
+    "original_position": [
+      5152,
+      1792
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_896.png",
+    "path": "patches\\3_patch_0_896.png",
+    "original_position": [
+      5376,
+      1792
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_1120.png",
+    "path": "patches\\3_patch_0_1120.png",
+    "original_position": [
+      5600,
+      1792
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_1344.png",
+    "path": "patches\\3_patch_0_1344.png",
+    "original_position": [
+      5824,
+      1792
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_1568.png",
+    "path": "patches\\3_patch_0_1568.png",
+    "original_position": [
+      6048,
+      1792
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_1792.png",
+    "path": "patches\\3_patch_0_1792.png",
+    "original_position": [
+      6272,
+      1792
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_2016.png",
+    "path": "patches\\3_patch_0_2016.png",
+    "original_position": [
+      6496,
+      1792
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_2240.png",
+    "path": "patches\\3_patch_0_2240.png",
+    "original_position": [
+      6720,
+      1792
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_2464.png",
+    "path": "patches\\3_patch_0_2464.png",
+    "original_position": [
+      6944,
+      1792
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_2688.png",
+    "path": "patches\\3_patch_0_2688.png",
+    "original_position": [
+      7168,
+      1792
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_2912.png",
+    "path": "patches\\3_patch_0_2912.png",
+    "original_position": [
+      7392,
+      1792
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_3136.png",
+    "path": "patches\\3_patch_0_3136.png",
+    "original_position": [
+      7616,
+      1792
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_3360.png",
+    "path": "patches\\3_patch_0_3360.png",
+    "original_position": [
+      7840,
+      1792
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_3584.png",
+    "path": "patches\\3_patch_0_3584.png",
+    "original_position": [
+      8064,
+      1792
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_3808.png",
+    "path": "patches\\3_patch_0_3808.png",
+    "original_position": [
+      8288,
+      1792
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_4032.png",
+    "path": "patches\\3_patch_0_4032.png",
+    "original_position": [
+      8512,
+      1792
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_4256.png",
+    "path": "patches\\3_patch_0_4256.png",
+    "original_position": [
+      8736,
+      1792
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_4480.png",
+    "path": "patches\\3_patch_0_4480.png",
+    "original_position": [
+      8960,
+      1792
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_4704.png",
+    "path": "patches\\3_patch_0_4704.png",
+    "original_position": [
+      9184,
+      1792
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_4928.png",
+    "path": "patches\\3_patch_0_4928.png",
+    "original_position": [
+      9408,
+      1792
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_0_5152.png",
+    "path": "patches\\3_patch_0_5152.png",
+    "original_position": [
+      9632,
+      1792
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_0.png",
+    "path": "patches\\3_patch_224_0.png",
+    "original_position": [
+      4480,
+      2016
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_224.png",
+    "path": "patches\\3_patch_224_224.png",
+    "original_position": [
+      4704,
+      2016
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_448.png",
+    "path": "patches\\3_patch_224_448.png",
+    "original_position": [
+      4928,
+      2016
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_672.png",
+    "path": "patches\\3_patch_224_672.png",
+    "original_position": [
+      5152,
+      2016
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_896.png",
+    "path": "patches\\3_patch_224_896.png",
+    "original_position": [
+      5376,
+      2016
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_1120.png",
+    "path": "patches\\3_patch_224_1120.png",
+    "original_position": [
+      5600,
+      2016
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_1344.png",
+    "path": "patches\\3_patch_224_1344.png",
+    "original_position": [
+      5824,
+      2016
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_1568.png",
+    "path": "patches\\3_patch_224_1568.png",
+    "original_position": [
+      6048,
+      2016
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_1792.png",
+    "path": "patches\\3_patch_224_1792.png",
+    "original_position": [
+      6272,
+      2016
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_2016.png",
+    "path": "patches\\3_patch_224_2016.png",
+    "original_position": [
+      6496,
+      2016
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_2240.png",
+    "path": "patches\\3_patch_224_2240.png",
+    "original_position": [
+      6720,
+      2016
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_2464.png",
+    "path": "patches\\3_patch_224_2464.png",
+    "original_position": [
+      6944,
+      2016
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_2688.png",
+    "path": "patches\\3_patch_224_2688.png",
+    "original_position": [
+      7168,
+      2016
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_2912.png",
+    "path": "patches\\3_patch_224_2912.png",
+    "original_position": [
+      7392,
+      2016
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_3136.png",
+    "path": "patches\\3_patch_224_3136.png",
+    "original_position": [
+      7616,
+      2016
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_3360.png",
+    "path": "patches\\3_patch_224_3360.png",
+    "original_position": [
+      7840,
+      2016
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_3584.png",
+    "path": "patches\\3_patch_224_3584.png",
+    "original_position": [
+      8064,
+      2016
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_3808.png",
+    "path": "patches\\3_patch_224_3808.png",
+    "original_position": [
+      8288,
+      2016
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_4032.png",
+    "path": "patches\\3_patch_224_4032.png",
+    "original_position": [
+      8512,
+      2016
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_4256.png",
+    "path": "patches\\3_patch_224_4256.png",
+    "original_position": [
+      8736,
+      2016
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_4480.png",
+    "path": "patches\\3_patch_224_4480.png",
+    "original_position": [
+      8960,
+      2016
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_4704.png",
+    "path": "patches\\3_patch_224_4704.png",
+    "original_position": [
+      9184,
+      2016
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_4928.png",
+    "path": "patches\\3_patch_224_4928.png",
+    "original_position": [
+      9408,
+      2016
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_224_5152.png",
+    "path": "patches\\3_patch_224_5152.png",
+    "original_position": [
+      9632,
+      2016
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_0.png",
+    "path": "patches\\3_patch_448_0.png",
+    "original_position": [
+      4480,
+      2240
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_224.png",
+    "path": "patches\\3_patch_448_224.png",
+    "original_position": [
+      4704,
+      2240
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_448.png",
+    "path": "patches\\3_patch_448_448.png",
+    "original_position": [
+      4928,
+      2240
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_672.png",
+    "path": "patches\\3_patch_448_672.png",
+    "original_position": [
+      5152,
+      2240
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_896.png",
+    "path": "patches\\3_patch_448_896.png",
+    "original_position": [
+      5376,
+      2240
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_1120.png",
+    "path": "patches\\3_patch_448_1120.png",
+    "original_position": [
+      5600,
+      2240
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_1344.png",
+    "path": "patches\\3_patch_448_1344.png",
+    "original_position": [
+      5824,
+      2240
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_1568.png",
+    "path": "patches\\3_patch_448_1568.png",
+    "original_position": [
+      6048,
+      2240
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_1792.png",
+    "path": "patches\\3_patch_448_1792.png",
+    "original_position": [
+      6272,
+      2240
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_2016.png",
+    "path": "patches\\3_patch_448_2016.png",
+    "original_position": [
+      6496,
+      2240
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_2240.png",
+    "path": "patches\\3_patch_448_2240.png",
+    "original_position": [
+      6720,
+      2240
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_2464.png",
+    "path": "patches\\3_patch_448_2464.png",
+    "original_position": [
+      6944,
+      2240
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_2688.png",
+    "path": "patches\\3_patch_448_2688.png",
+    "original_position": [
+      7168,
+      2240
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_2912.png",
+    "path": "patches\\3_patch_448_2912.png",
+    "original_position": [
+      7392,
+      2240
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_3136.png",
+    "path": "patches\\3_patch_448_3136.png",
+    "original_position": [
+      7616,
+      2240
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_3360.png",
+    "path": "patches\\3_patch_448_3360.png",
+    "original_position": [
+      7840,
+      2240
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_3584.png",
+    "path": "patches\\3_patch_448_3584.png",
+    "original_position": [
+      8064,
+      2240
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_3808.png",
+    "path": "patches\\3_patch_448_3808.png",
+    "original_position": [
+      8288,
+      2240
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_4032.png",
+    "path": "patches\\3_patch_448_4032.png",
+    "original_position": [
+      8512,
+      2240
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_4256.png",
+    "path": "patches\\3_patch_448_4256.png",
+    "original_position": [
+      8736,
+      2240
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_4480.png",
+    "path": "patches\\3_patch_448_4480.png",
+    "original_position": [
+      8960,
+      2240
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_4704.png",
+    "path": "patches\\3_patch_448_4704.png",
+    "original_position": [
+      9184,
+      2240
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_4928.png",
+    "path": "patches\\3_patch_448_4928.png",
+    "original_position": [
+      9408,
+      2240
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_448_5152.png",
+    "path": "patches\\3_patch_448_5152.png",
+    "original_position": [
+      9632,
+      2240
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_0.png",
+    "path": "patches\\3_patch_672_0.png",
+    "original_position": [
+      4480,
+      2464
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_224.png",
+    "path": "patches\\3_patch_672_224.png",
+    "original_position": [
+      4704,
+      2464
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_448.png",
+    "path": "patches\\3_patch_672_448.png",
+    "original_position": [
+      4928,
+      2464
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_672.png",
+    "path": "patches\\3_patch_672_672.png",
+    "original_position": [
+      5152,
+      2464
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_896.png",
+    "path": "patches\\3_patch_672_896.png",
+    "original_position": [
+      5376,
+      2464
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_1120.png",
+    "path": "patches\\3_patch_672_1120.png",
+    "original_position": [
+      5600,
+      2464
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_1344.png",
+    "path": "patches\\3_patch_672_1344.png",
+    "original_position": [
+      5824,
+      2464
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_1568.png",
+    "path": "patches\\3_patch_672_1568.png",
+    "original_position": [
+      6048,
+      2464
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_1792.png",
+    "path": "patches\\3_patch_672_1792.png",
+    "original_position": [
+      6272,
+      2464
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_2016.png",
+    "path": "patches\\3_patch_672_2016.png",
+    "original_position": [
+      6496,
+      2464
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_2240.png",
+    "path": "patches\\3_patch_672_2240.png",
+    "original_position": [
+      6720,
+      2464
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_2464.png",
+    "path": "patches\\3_patch_672_2464.png",
+    "original_position": [
+      6944,
+      2464
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_2688.png",
+    "path": "patches\\3_patch_672_2688.png",
+    "original_position": [
+      7168,
+      2464
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_2912.png",
+    "path": "patches\\3_patch_672_2912.png",
+    "original_position": [
+      7392,
+      2464
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_3136.png",
+    "path": "patches\\3_patch_672_3136.png",
+    "original_position": [
+      7616,
+      2464
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_3360.png",
+    "path": "patches\\3_patch_672_3360.png",
+    "original_position": [
+      7840,
+      2464
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_3584.png",
+    "path": "patches\\3_patch_672_3584.png",
+    "original_position": [
+      8064,
+      2464
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_3808.png",
+    "path": "patches\\3_patch_672_3808.png",
+    "original_position": [
+      8288,
+      2464
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_4032.png",
+    "path": "patches\\3_patch_672_4032.png",
+    "original_position": [
+      8512,
+      2464
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_4256.png",
+    "path": "patches\\3_patch_672_4256.png",
+    "original_position": [
+      8736,
+      2464
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_4480.png",
+    "path": "patches\\3_patch_672_4480.png",
+    "original_position": [
+      8960,
+      2464
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_4704.png",
+    "path": "patches\\3_patch_672_4704.png",
+    "original_position": [
+      9184,
+      2464
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_4928.png",
+    "path": "patches\\3_patch_672_4928.png",
+    "original_position": [
+      9408,
+      2464
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "3_patch_672_5152.png",
+    "path": "patches\\3_patch_672_5152.png",
+    "original_position": [
+      9632,
+      2464
+    ],
+    "patch_size": 224,
+    "label": "3"
+  },
+  {
+    "filename": "2_patch_0_0.png",
+    "path": "patches\\2_patch_0_0.png",
+    "original_position": [
+      600,
+      1000
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_224.png",
+    "path": "patches\\2_patch_0_224.png",
+    "original_position": [
+      824,
+      1000
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_0.png",
+    "path": "patches\\2_patch_0_0.png",
+    "original_position": [
+      2600,
+      2100
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_224.png",
+    "path": "patches\\2_patch_0_224.png",
+    "original_position": [
+      2824,
+      2100
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_448.png",
+    "path": "patches\\2_patch_0_448.png",
+    "original_position": [
+      3048,
+      2100
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_672.png",
+    "path": "patches\\2_patch_0_672.png",
+    "original_position": [
+      3272,
+      2100
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_0.png",
+    "path": "patches\\2_patch_0_0.png",
+    "original_position": [
+      4850,
+      3000
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_224.png",
+    "path": "patches\\2_patch_0_224.png",
+    "original_position": [
+      5074,
+      3000
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_448.png",
+    "path": "patches\\2_patch_0_448.png",
+    "original_position": [
+      5298,
+      3000
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_672.png",
+    "path": "patches\\2_patch_0_672.png",
+    "original_position": [
+      5522,
+      3000
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_0.png",
+    "path": "patches\\2_patch_0_0.png",
+    "original_position": [
+      5700,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_224.png",
+    "path": "patches\\2_patch_0_224.png",
+    "original_position": [
+      5924,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_448.png",
+    "path": "patches\\2_patch_0_448.png",
+    "original_position": [
+      6148,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_672.png",
+    "path": "patches\\2_patch_0_672.png",
+    "original_position": [
+      6372,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_896.png",
+    "path": "patches\\2_patch_0_896.png",
+    "original_position": [
+      6596,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_1120.png",
+    "path": "patches\\2_patch_0_1120.png",
+    "original_position": [
+      6820,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_1344.png",
+    "path": "patches\\2_patch_0_1344.png",
+    "original_position": [
+      7044,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_1568.png",
+    "path": "patches\\2_patch_0_1568.png",
+    "original_position": [
+      7268,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_1792.png",
+    "path": "patches\\2_patch_0_1792.png",
+    "original_position": [
+      7492,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_2016.png",
+    "path": "patches\\2_patch_0_2016.png",
+    "original_position": [
+      7716,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_2240.png",
+    "path": "patches\\2_patch_0_2240.png",
+    "original_position": [
+      7940,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_2464.png",
+    "path": "patches\\2_patch_0_2464.png",
+    "original_position": [
+      8164,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "2_patch_0_2688.png",
+    "path": "patches\\2_patch_0_2688.png",
+    "original_position": [
+      8388,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "annot_2_patch_0_0.png",
+    "path": "patches_new\\annot_2_patch_0_0.png",
+    "original_position": [
+      5700,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "annot_2_patch_0_224.png",
+    "path": "patches_new\\annot_2_patch_0_224.png",
+    "original_position": [
+      5924,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "annot_2_patch_0_448.png",
+    "path": "patches_new\\annot_2_patch_0_448.png",
+    "original_position": [
+      6148,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "annot_2_patch_0_672.png",
+    "path": "patches_new\\annot_2_patch_0_672.png",
+    "original_position": [
+      6372,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "annot_2_patch_0_896.png",
+    "path": "patches_new\\annot_2_patch_0_896.png",
+    "original_position": [
+      6596,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "annot_2_patch_0_1120.png",
+    "path": "patches_new\\annot_2_patch_0_1120.png",
+    "original_position": [
+      6820,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "annot_2_patch_0_1344.png",
+    "path": "patches_new\\annot_2_patch_0_1344.png",
+    "original_position": [
+      7044,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "annot_2_patch_0_1568.png",
+    "path": "patches_new\\annot_2_patch_0_1568.png",
+    "original_position": [
+      7268,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "annot_2_patch_0_1792.png",
+    "path": "patches_new\\annot_2_patch_0_1792.png",
+    "original_position": [
+      7492,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "annot_2_patch_0_2016.png",
+    "path": "patches_new\\annot_2_patch_0_2016.png",
+    "original_position": [
+      7716,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "annot_2_patch_0_2240.png",
+    "path": "patches_new\\annot_2_patch_0_2240.png",
+    "original_position": [
+      7940,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "annot_2_patch_0_2464.png",
+    "path": "patches_new\\annot_2_patch_0_2464.png",
+    "original_position": [
+      8164,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "annot_2_patch_0_2688.png",
+    "path": "patches_new\\annot_2_patch_0_2688.png",
+    "original_position": [
+      8388,
+      3250
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "annot_2_patch_0_0.png",
+    "path": "patches_new\\annot_2_patch_0_0.png",
+    "original_position": [
+      600,
+      1000
+    ],
+    "patch_size": 224,
+    "label": "2"
+  },
+  {
+    "filename": "annot_2_patch_0_224.png",
+    "path": "patches_new\\annot_2_patch_0_224.png",
+    "original_position": [
+      824,
+      1000
+    ],
+    "patch_size": 224,
+    "label": "2"
+  }
+]

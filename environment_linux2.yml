@@ -1,0 +1,30 @@
+name: ja_conda_env
+channels:
+  - pytorch
+  - conda-forge
+  - nvidia
+  - defaults
+  - fastai
+  - plotly
+
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - scipy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - pillow
+  - tqdm
+  - jupyterlab
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=12.1   
+  - cudnn
+  - pip:
+      - segmentation-models-pytorch
+      - albumentations
+      - opencv-python
+      - patchify
