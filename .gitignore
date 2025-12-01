@@ -2,3 +2,6 @@
 vgg_model_best.h5
 /models_unet
 /models
+/mmsegmentation_project/images_masks_annotated
+/mmsegmentation_project/datasets
+images_masks_annotated.zip

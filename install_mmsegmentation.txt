@@ -1,7 +1,0 @@
-
-    "conda create -n mmseg python=3.8 -y\n",
-    "conda activate mmseg\n",
-    "pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118\n",
-    "pip install mmcv==2.0.0rc4 -f https://download.openmmlab.com/mmcv/dist/cu113/torch1.12/index.html\n",
-    "pip install \"mmsegmentation>=1.0.0\""
-
